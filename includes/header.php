@@ -23,5 +23,8 @@
         <li class="nav-item"><a class ="nav-link" href="dateandtime.php">Simple DateandTime</a></li>
         <li class="nav-item"><a class ="nav-link" href="function.php">Function</a></li>
     </ul>    
+    <button type="button" class="btn btn-info">Info</button>
+<button type="button" class="btn btn-light">Light</button>
+<button type="button" class="btn btn-dark">Dark</button>
 
     
